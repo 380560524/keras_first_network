@@ -23,6 +23,12 @@ You have Keras and a backend (Theano or TensorFlow) installed and configured.
 If you need help with your environment, see the tutorial:
 
 How to Setup a Python Environment for Deep Learning
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
+
 Create a new file called keras_first_network.py and type or copy-and-paste the code into the file as you go.
+
+
+
+
 
 
