@@ -1,6 +1,7 @@
 Pls ref:https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 The dataset was originied from Dr. Jason Brownlee's website but the code was modified accordingly.
+Most of the describlsion was copied directly from the above web linkage.
 
 # keras_first_network
 Keras is a powerful and easy-to-use free open source Python library for developing and evaluating deep learning models.  It wraps the efficient numerical computation libraries Theano and TensorFlow and allows you to define and train neural network models in just a few lines of code.  In this tutorial, you will discover how to create your first deep learning neural network model in Python using Keras.  Kick-start your project with my new book Deep Learning With Python, including step-by-step tutorials and the Python source code files for all examples.
