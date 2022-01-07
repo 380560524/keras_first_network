@@ -177,7 +177,7 @@ We can adapt the above example and use it to generate predictions on the trainin
 
 Making predictions is as easy as calling the predict() function on the model. We are using a sigmoid activation function on the output layer, so the predictions will be a probability in the range between 0 and 1. We can easily convert them into a crisp binary prediction for this classification task by rounding them.
 
-
+Cheers! Pls enjoy the open source code
 
 
 
